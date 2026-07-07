@@ -39,7 +39,6 @@ I operate at the intersection of **extreme performance** and **striking aestheti
 | :--- | :--- | :--- |
 | **[Tower-Of-Hanoi-Game](https://github.com/Koustav669/Tower-Of-Hanoi-Game)** | A project for the game tower of hanoi using c programming and OpenGL (freeglut) | C |
 | **[SafeRoute](https://github.com/Koustav669/SafeRoute)** | AI-powered navigation for safer travel at night | TypeScript |
-| **[Cooketh-Flow](https://github.com/Koustav669/Cooketh-Flow)** | An open-source, powerful visual thinking tool designed to brainstorm, sketch, and organize. | Dart |
 | **[AyurSync EMR](https://github.com/Koustav669/AyurSync_EMR_PUBLIC)** | High-performance API gateway bridging India's NAMASTE ontology with WHO ICD-11. | FastAPI, React |
 | **[Chronos Core Portfolio](https://koustav-six.vercel.app/)** | Full-stack 3D parallax portfolio featuring a custom X-Ray debugging engine. | React, Framer Motion |
 
