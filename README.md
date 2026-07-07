@@ -186,6 +186,12 @@ current_focus:
 
 <br>
 
+<a href="https://github.com/Koustav669">
+  <img src="https://streak-stats.demolab.com?user=Koustav669&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</a>
+
+<br><br>
+
 [![Koustav's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Koustav669&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=1a1b27)](https://github.com/Koustav669)
 
 <br><br>
