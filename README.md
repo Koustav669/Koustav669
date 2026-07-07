@@ -35,28 +35,13 @@ I operate at the intersection of **extreme performance** and **striking aestheti
 
 ### 🚀 Active Systems & Architectures
 
-<table>
-  <tr>
-    <td width="50%">
-      <b><a href="https://github.com/Koustav669/PulseStream">PulseStream</a></b><br/>
-      Hybrid autonomous orchestration engine for high-throughput AI content generation. <i>(React, Activepieces, Groq Llama-4, RAG)</i>
-    </td>
-    <td width="50%">
-      <b><a href="https://github.com/Koustav669/AyurSync_EMR_PUBLIC">AyurSync EMR</a></b><br/>
-      High-performance API gateway bridging India's NAMASTE ontology with WHO ICD-11. <i>(FastAPI, React, Supabase, OAuth2)</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b><a href="https://koustav-six.vercel.app/">Chronos Core Portfolio</a></b><br/>
-      Full-stack 3D parallax portfolio featuring a custom X-Ray debugging engine. <i>(React, TypeScript, Framer Motion)</i>
-    </td>
-    <td width="50%">
-      <b><a href="https://github.com/Koustav669/SafeRoute">SafeRoute</a></b><br/>
-      Real-time route safety assessment with AI-powered risk analysis for women. <i>(TypeScript, Google Maps API)</i>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Tower-Of-Hanoi-Game](https://github.com/Koustav669/Tower-Of-Hanoi-Game)** | A project for the game tower of hanoi using c programming and OpenGL (freeglut) | C |
+| **[SafeRoute](https://github.com/Koustav669/SafeRoute)** | AI-powered navigation for safer travel at night | TypeScript |
+| **[Cooketh-Flow](https://github.com/Koustav669/Cooketh-Flow)** | An open-source, powerful visual thinking tool designed to brainstorm, sketch, and organize. | Dart |
+| **[AyurSync EMR](https://github.com/Koustav669/AyurSync_EMR_PUBLIC)** | High-performance API gateway bridging India's NAMASTE ontology with WHO ICD-11. | FastAPI, React |
+| **[Chronos Core Portfolio](https://koustav-six.vercel.app/)** | Full-stack 3D parallax portfolio featuring a custom X-Ray debugging engine. | React, Framer Motion |
 
 ---
 
@@ -76,8 +61,12 @@ I operate at the intersection of **extreme performance** and **striking aestheti
 ### 📊 System Telemetry (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koustav669&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav669&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+  <a href="https://github.com/Koustav669">
+    <img src="https://github-readme-stats.vercel.app/api?username=Koustav669&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Koustav669">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav669&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
