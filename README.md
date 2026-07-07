@@ -60,12 +60,11 @@ I operate at the intersection of **extreme performance** and **striking aestheti
 ### 📊 System Telemetry (GitHub Stats)
 
 <div align="center">
-  <a href="https://github.com/Koustav669">
-    <img src="https://github-readme-stats.vercel.app/api?username=Koustav669&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Koustav669">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav669&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koustav669&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Koustav669)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav669&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Koustav669)
+
 </div>
 
 <br>
