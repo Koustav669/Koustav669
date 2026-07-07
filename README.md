@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Koustav%20Das&fontSize=72&fontColor=58a6ff&fontAlignY=35&desc=Build%20depth%2C%20not%20hype.%20Think%20first%2C%20code%20second.&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<br>
+<br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=B.Tech+CSE+(2025-2029)+%40+IIIT+Kalyani;Systems+Engineer+%7C+Full+Stack+Architect;Freestyle+Thinker+%7C+Obsessive+Builder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=B.Tech+CSE+(2025-2029)+%40+IIIT+Kalyani;Systems+Engineer+%7C+Full+Stack+Architect;Freestyle+Thinker+%7C+Obsessive+Builder" alt="Typing SVG" /></a>
 
 <br>
 
