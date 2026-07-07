@@ -61,9 +61,9 @@ I operate at the intersection of **extreme performance** and **striking aestheti
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koustav669&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Koustav669)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Koustav669&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Koustav669)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav669&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Koustav669)
+[![Koustav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Koustav669&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/Koustav669)
 
 </div>
 
