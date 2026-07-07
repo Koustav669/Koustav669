@@ -21,8 +21,6 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav669&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="320" />
-
 ### &nbsp; `> whoami`
 
 ```yaml
@@ -189,10 +187,6 @@ current_focus:
 <br>
 
 [![Koustav's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Koustav669&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=1a1b27)](https://github.com/Koustav669)
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Koustav669&theme=onestar&no-bg=true&no-frame=true&column=6&margin-w=10" />
 
 <br><br>
 
